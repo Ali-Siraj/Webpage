@@ -1,0 +1,102 @@
+#body {
+    background-image: url(./Asset/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    scroll-behavior: smooth;
+}
+
+#header {
+    text-align: center;
+    font-size: x-large;
+    font-variant: small-caps;
+    font-family: serif;
+    padding: 1px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+table,tr,td {
+    border: 1px solid blue;
+    width: 1000px;
+    text-align: center;
+    padding: 2px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+#table1 {
+    border: 0px solid blue;
+    border-spacing: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    empty-cells: hide;
+    font-size: 12px;
+}
+
+
+#table2 {
+    border: 0px solid blue;
+    border-spacing: 3px;
+    margin-left: 250px;
+    margin-right: auto;
+    width: 800px;
+    font-size: 12px;
+}
+
+.blue {
+    background-color: #a2dceb;
+    font-weight: bold;
+    color: blue;
+}
+
+.yellow {
+    background-color: #F6F7C4;
+    font-weight: bold;
+    color: rgb(236, 141, 26);
+}
+
+.peach {
+    background-color: #F6D6D6;
+    font-weight: bold;
+    color: rgb(238, 51, 113);
+}
+
+.green {
+    background-color: #bbf5d1;
+    font-weight: bold;
+    color: green;
+}
+
+.grey {
+    background-color: rgb(199, 187, 187);
+    font-weight: bold;
+    color: black;
+}
+
+.purple {
+    background-color: rgb(242, 200, 242);
+    font-weight: bold;
+    color: purple;
+}
+
+.orange {
+    background-color: rgb(250, 195, 176);
+    font-weight: bold;
+    color: orangered;
+}
+
+.red {
+    background-color: rgb(249, 178, 178);
+    font-weight: bold;
+    color: red;
+}
+
+.pink {
+    background-color: pink;
+    font-weight: bold;
+    color: rgb(232, 13, 232);
+}

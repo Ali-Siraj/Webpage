@@ -1,0 +1,103 @@
+#head{
+    background-color: rgb(233, 203, 207);
+    padding-bottom: 0px;
+}
+
+#container{
+    margin: 0;
+    padding: 0;
+}
+
+
+#fig{
+    text-align: center;
+    margin: 1px;
+    padding: 1px;
+    
+}
+
+#p1{
+    text-align: center;
+    font-style: italic;
+    font-weight: 100;
+}
+
+#h1{
+    text-align: center;
+}
+
+#p2{
+    text-align: center;
+} 
+
+
+                /*--------------------------- HEADER END -------------------------*/
+
+#main{
+    background-color: rgb(179, 218, 234);
+    margin: 1px;
+    padding: 1px;
+    padding-bottom: 0px;
+}
+
+
+
+#career_h2{
+    text-decoration: underline;
+}  
+
+#summary_h2{
+    text-decoration: underline;
+}
+
+#tech_proficiency-h2{
+    text-decoration: underline;
+}
+
+#educational-h2{
+    text-decoration: underline;
+}
+
+#higher_edu-h3{
+    text-decoration: underline;
+}
+
+#primary_edu-h3{
+    text-decoration: underline;
+}
+
+#intermediate_engineer-li{
+    text-decoration: underline;
+}
+
+#metriculation-h3{
+    text-decoration: underline;
+}
+
+#project-work-h2{
+    text-decoration: underline;
+}
+
+#profile-h2{
+    text-decoration: underline;
+}
+
+#declaration-h2{
+    text-decoration: underline;
+}
+
+#contact-details-h2{
+    text-decoration: underline;
+    
+}
+
+         /*---------------------------------- MAIN SECTION END ------------------------------------*/
+
+
+#footer{
+    margin: 0px;
+    padding: 1px;
+    padding-bottom: 1px;
+    background-color: rgb(179, 218, 234);
+    
+}
